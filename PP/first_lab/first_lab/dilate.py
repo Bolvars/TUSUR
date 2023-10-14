@@ -34,4 +34,8 @@ class Intv:
 
     def get_time_work(self):
         return datetime.now()-self.start_time
+    
+
+
+
 
