@@ -1,15 +1,15 @@
 [tool.poetry]
-name = "first-lab"
+name = "second-lab"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Ivaschenko Nikita <ivashchenkonikal@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.9, <3.13"
+python = ">=3.9,<3.13"
+opencv-python = "^4.8.1.78"
 numpy = "^1.26.0"
 pillow = "^10.0.1"
-opencv-python = "^4.8.1.78"
 
 
 [build-system]
