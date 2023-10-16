@@ -1,1 +1,1 @@
-from . import prgrm_A
+from . import prgrm_A, prgrm_B
