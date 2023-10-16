@@ -39,7 +39,3 @@ class Intv:
     
 
 
-def main(path_pic:str,i:int,threshold:int, kernel:int,threads:int):
-    a = Intv(path_pic,threshold,kernel,threads=1)
-    a.savePic_array(f'test{i}.jpg')
-    print(int(a.get_time_work().microseconds))

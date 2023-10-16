@@ -10,6 +10,7 @@ python = ">=3.9,<3.13"
 opencv-python = "^4.8.1.78"
 numpy = "^1.26.0"
 pillow = "^10.0.1"
+scipy = "^1.11.3"
 
 
 [build-system]
